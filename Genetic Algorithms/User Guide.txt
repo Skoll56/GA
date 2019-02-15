@@ -1,0 +1,13 @@
+To make this run, place the map in the correct place 
+(If running from the .exe, that's the release folder. Else it's the 'Genetic Algorithm' folder)
+
+Rename the map to map.txt
+
+When the program runs, the console will ask if you want to run A* or GA.
+Select the desired option and wait for it to work.
+Re-start the program with the new map in place to test another map.
+
+It may be necessary to edit the project properties to read the dlls and SDKs from the correct directory 
+after downloading the project.
+
+You will probably need to adjust the SDK to one you have got installed in the project properties also.
